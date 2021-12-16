@@ -1,0 +1,38 @@
+Script started on 2021-12-16 20:12:24+00:00 [TERM="dumb" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folde<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folder                                       1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folde<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folder                                       2
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file1<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file1.                                       txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file2<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file2.                                       txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file3<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file3.                                       txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file1.tx<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file1.txt                                        folder1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file2.tx<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file2.txt                                        folder2
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ cd folder1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ ls
+file1.txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ pwd
+/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ cd <s/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ cd .                                       .
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ ls
+README.md  file3.txt  folder1  folder2  output.txt  package-lock.json  package.json
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ rm file3.tx<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ rm file3.txt                                       
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ cat output.<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ cat output.t                                       xt
+Script started on 2021-12-16 20:12:24+00:00 [TERM="dumb" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folde<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folder                                       1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folde<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mkdir folder                                       2
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file1<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file1.                                       txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file2<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file2.                                       txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file3<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ touch file3.                                       txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file1.tx<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file1.txt                                        folder1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file2.tx<s/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ mv file2.txt                                        folder2
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ cd folder1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ ls
+file1.txt
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ pwd
+/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ cd <s/black-codher/unit-01-command-line-and-git-assessment-vthelamb/folder1$ cd .                                       .
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ ls
+README.md  file3.txt  folder1  folder2  output.txt  package-lock.json  package.json
+vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-vglamb8@DESKTOP-49Q4JJQ:/mnt/c/Users/teams/black-codher/unit-01-command-line-and-git-assessment-vthelamb$ exit
+exit
+
+Script done on 2021-12-16 20:17:10+00:00 [COMMAND_EXIT_CODE="0"]
